@@ -74,11 +74,20 @@
 
 ## 📈Progress
 
-List down all the fully implemented features in your project
+#### ✅ **Fully Implemented Features:**  
+- **Modular Architecture** (Independent CRM, Accounting, Inventory modules)  
+- **MongoDB Database Integration** (Efficient NoSQL storage)  
+- **Basic Dashboard & Reporting** (Sales, revenue, and order tracking)  
+- **Inventory Management** (Stock tracking, product catalog)  
+- **Sales & Invoice Generation** (Automated invoicing, transaction tracking)  
+- **OCR** (Generate bill from image)  
 
-
-
-List down all the partially implemented features in your project
+#### ⚡ **Partially Implemented Features:**  
+- **AI Chatbot for Business Insights** (Basic query handling, needs live data integration)  
+- **Predictive Analytics** (Sales forecasting and trend analysis in progress)  
+- **E-commerce Integration** (Shopify/WooCommerce connection in testing)  
+- **Advanced Financial Reports** (Balance sheet, tax reports under development)  
+- **Multi-Platform Access** (WhatsApp/Telegram bot integration in progress)  
 
 ## 🔮Future Scope
 
